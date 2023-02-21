@@ -1,35 +1,93 @@
-## नमस्ते 🙏
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/01naveenv/)](https://www.linkedin.com/in/01naveenv/)
-[![](https://img.shields.io/badge/Telegram-naveenv01-blue)](https://t.me/naveenv01)
-[![](https://img.shields.io/badge/Leetcode-naveenverma-brightgreen)](https://leetcode.com/naveenverma/)
-[![](https://img.shields.io/badge/Gmail-01naveenv%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
+### Hi there 👋<h2> I'm AllenIverrui</h2>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/naveenverma1/count.svg" />
+<img align='right' src="https://s3.bmp.ovh/imgs/2022/07/13/cb5f4e492f06a3cd.jpg" width="230">
+
+<h3> 👨🏻•💻 About Me </h3>
+
+
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
+- 🎓 &nbsp; Studying Network Engineering at JMU.
+
+- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp;  Java | C | MySQL| Redis| ElasticSearch
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Vue
+
+<!--
+
+- 🛢 &nbsp; MySQL | MongoDB
+
+- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+
+- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+
+-->
+
+
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; C++ | Docker🐳 | SpringCloud | kafka
+
+<hr>
+
+
+
+<br/><br/>
+
+[![AllenIverrui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllenIverrui&show_icons=true)](https://github.com/AllenIverrui)
+
+<br/>
+
+<br/>
+
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenIverrui&show_icons=true)
+
+<br><br>
+
+
+
+<hr>
+
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+
+
+<p align="center">
+
+<a href="https://AllenIverrui.top/"><img alt="Website" src="https://img.shields.io/badge/AllenIverrui.top-black?style=flat-square&logo=google-chrome"></a>
+
+
+
+<a href="mailto:3037256239@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-3037256239@qq.com-blue?style=flat-square&logo=gmail"></a>
+
 </p>
 
 
 
-```javascript
-const Naveen = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "music", "eddie vedder", "chris cornell"],
-    technologies: {
-       mobileApp: ["Android App"],
-       backEnd: {
-            js: ["node", "express", "hapi"],
-        },
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO"]
-    },
-    architecture: ["microservices", "event-driven"],
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=naveenverma1&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/naveenverma1)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-⭐️ From [naveenverma1](https://github.com/naveenverma1)
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=AllenIverrui)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+
+
+
+
+
+<hr>
+
+
